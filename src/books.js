@@ -1,3 +1,3 @@
-const books = [];
+let books = [];
 
 module.exports = books;
